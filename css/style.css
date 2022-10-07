@@ -1,0 +1,102 @@
+
+.success{
+    color:rgb(51, 88, 13);
+    font-weight: bold;
+}
+.error{
+    color:rgb(189, 55, 14);
+    font-weight: bold;
+}
+
+
+.btn-primary{
+    background-color: rgb(76, 76, 253);
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border:1px solid rgb(76, 76, 253);
+
+}
+.btn-primary:hover{
+    
+    background-color: white;
+    color:blue;
+    border:1px solid blue;
+
+    
+}
+
+.btn-secondary{
+    background-color: rgb(107, 211, 97);
+    padding: 1%;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border:1px solid rgb(107, 211, 97);
+
+}
+.btn-secondary:hover{
+    background-color: white;
+    color: rgb(3, 77, 3);
+    border:1px solid  rgb(3, 77, 3);
+    
+}
+
+.btn-danger{
+    background-color: rgb(240, 81, 81);
+    padding: 1%;
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+    border:1px solid rgb(240, 81, 81);
+
+}
+.btn-danger:hover{
+    
+    background-color: white;
+    color: red;
+    border:1px solid red;
+    
+    
+    
+}
+
+
+.login{
+
+    border:1px solid grey;
+    width: 20%;
+    margin:5% auto;
+    padding: 2%;
+    background: linear-gradient(90deg, #9290aa, #313c4b);
+    box-shadow: 0px 0px 24px #5C5696;
+  }
+  
+  
+  .btn-login{
+    background-color: rgb(76, 76, 253);
+    padding: 3% 7%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border:1px solid rgb(76, 76, 253);
+    border-radius: 5px;
+    
+  
+  }
+  .btn-login:hover{
+    
+    background-color: white;
+    color:blue;
+    border:1px solid blue;
+    
+  
+    
+  }
+  input[type='text'],input[type='password'],input[type='number']{
+  
+    border: none;
+    padding: 3% 7%;
+  }
+  
